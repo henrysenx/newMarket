@@ -1,0 +1,17 @@
+.popular {
+  display: flex;
+  justify-content: space-around;
+  height: 5rem;
+  margin-top: 2rem;
+  .pop {
+    margin-right: 18rem;
+  }
+  .partner {
+    display: flex;
+  }
+  .part {
+    width: 12rem;
+    height: 7rem;
+    margin-top: -1.5rem;
+  }
+}

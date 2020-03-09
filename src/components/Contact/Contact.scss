@@ -1,0 +1,47 @@
+.vertical1 {
+  border-left: thick solid black;
+  margin-left: 1rem;
+}
+.vertical-line {
+  width: 1px;
+  background-color: black;
+  height: 100%;
+  float: left;
+}
+
+.contact {
+  border-left: 6px solid white;
+  height: 15rem;
+  margin-top: 3rem;
+}
+.concat {
+  display: flex;
+  margin-top: 1rem;
+  background-color: darkseagreen;
+  width: 103%;
+  justify-content: space-between;
+}
+.test {
+  width: 30rem;
+  height: 20rem;
+}
+.test2 {
+  width: 20rem;
+  height: 20rem;
+}
+.title1 {
+  margin-top: 7rem;
+  margin-left: 10rem;
+  font-size: x-large;
+}
+.title2 {
+  margin-top: 7rem;
+  margin-left: 4rem;
+  font-size: x-large;
+}
+.btn1 {
+  margin-left: 10rem;
+}
+.btn2 {
+  margin-left: 4rem;
+}
